@@ -1,4 +1,7 @@
 # flowable-6.6.0 Springboot方式实现的 Getting start示例demo
+
+## 使用方式：
+
 1. 配置数据库连接
 
 2. 启动应用
