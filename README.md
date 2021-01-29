@@ -22,8 +22,4 @@
 
 ![截图](imgs/console-4.png)
 
-![截图](imgs/console-5.png)
-
-![截图](imgs/console-6.png)
-
 ![截图](imgs/console-7.png)
